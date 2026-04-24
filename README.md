@@ -17,4 +17,11 @@
   - Установил apache2-utils
   - Тест проводил с помощью команды ab
 
-  
+ <img width="1143" height="680" alt="image" src="https://github.com/user-attachments/assets/45d6b08f-29d2-4ef7-90c1-890435950977" />
+
+ <img width="1143" height="680" alt="image" src="https://github.com/user-attachments/assets/6d6e47b4-507c-493b-84a2-97fba3afb0e4" />
+
+ <img width="1143" height="680" alt="image" src="https://github.com/user-attachments/assets/486834a6-8d17-4f2c-acde-40df03d8ca7b" />
+
+
+ 
