@@ -6,3 +6,10 @@
   - Добавил сертификат и ключ в конфиг nginx, добавил переадресацию с http на https
   - Скриншот данных сертификата из firefox
   - Еще столкнулся с проблемой если поставить пароль на сертификат то демон не поднимается
+
+<img width="1143" height="680" alt="image" src="https://github.com/user-attachments/assets/a70003a2-8693-4e7a-a1c9-f8720ff18ad7" />
+
+<img width="806" height="668" alt="image" src="https://github.com/user-attachments/assets/20d91260-2159-4f28-a12d-c01295f4c4f5" />
+
+<img width="806" height="668" alt="image" src="https://github.com/user-attachments/assets/cce4db4b-ef15-413a-8c0c-d98fad392e99" />
+
