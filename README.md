@@ -13,3 +13,8 @@
 
 <img width="806" height="668" alt="image" src="https://github.com/user-attachments/assets/cce4db4b-ef15-413a-8c0c-d98fad392e99" />
 
+# 2. Провести нагрузочный тест на свой веб-сервер
+  - Установил apache2-utils
+  - Тест проводил с помощью команды ab
+
+  
